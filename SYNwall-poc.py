@@ -2,7 +2,7 @@
 """
 SYNwall Firewall - Source Code Flaw Validation Tool
 Vulnerability Type: Integer Underflow (CWE-191) -> Out-of-Bounds Write (CWE-787)
-Author: Mit Github: github.com/pwnmit
+Author: Mit Github: github.com/r0xkrnl
 """
 
 import sys
